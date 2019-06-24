@@ -48,16 +48,16 @@ var name = "Kristin";
   }
 //}
 
-/*
+
 function sayMyName() {
   // fix the code in here:
   var name = "Cricky";
 
   sayMy();
 
-  function sayMy() {
+  function sayMy(name) {
     console.log(name);
     var name = "Kristin";
   }
 }
-*/
+
