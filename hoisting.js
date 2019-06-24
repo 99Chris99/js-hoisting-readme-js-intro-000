@@ -35,7 +35,7 @@ var thisIsCrazy() = A()
 }
 */
 
-/*
+
 function sayMyName() {
   // fix the code in here:
 
@@ -49,8 +49,8 @@ var name = "Kristin";
 
   }
 //}
-*/
 
+/*
 function sayMyName() {
   // fix the code in here:
   var name = "Cricky";
@@ -62,3 +62,4 @@ function sayMyName() {
     var name = "Kristin";
   }
 }
+*/
